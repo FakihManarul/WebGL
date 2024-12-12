@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="zebra" size="1.000000 1.250000" />
+    <ImageTarget name="wombat" size="1.000000 1.250000" />
+    <ImageTarget name="wallaby" size="1.000000 1.250000" />
+    <ImageTarget name="tupai" size="1.000000 1.250000" />
+    <ImageTarget name="tikus" size="1.000000 1.250000" />
+    <ImageTarget name="singa" size="1.000000 1.250000" />
+    <ImageTarget name="singalaut" size="1.000000 1.250000" />
+    <ImageTarget name="sapi" size="1.000000 1.250000" />
+    <ImageTarget name="rusa" size="1.000000 1.250000" />
+    <ImageTarget name="possum" size="1.000000 1.250000" />
+    <ImageTarget name="paus" size="1.000000 1.250000" />
+    <ImageTarget name="musang" size="1.000000 1.250000" />
+    <ImageTarget name="lumbalumba" size="1.000000 1.250000" />
+    <ImageTarget name="landak" size="1.000000 1.250000" />
+    <ImageTarget name="kudanil" size="1.000000 1.250000" />
+    <ImageTarget name="kuda" size="1.000000 1.250000" />
+    <ImageTarget name="kucing" size="1.000000 1.250000" />
+    <ImageTarget name="koala" size="1.000000 1.250000" />
+    <ImageTarget name="kerbau" size="1.000000 1.250000" />
+    <ImageTarget name="kelinci" size="1.000000 1.250000" />
+    <ImageTarget name="kangguru" size="1.000000 1.250000" />
+    <ImageTarget name="kambing" size="1.000000 1.250000" />
+    <ImageTarget name="harimau" size="1.000000 1.250000" />
+    <ImageTarget name="gajah" size="1.000000 1.250000" />
+    <ImageTarget name="dugong" size="1.000000 1.250000" />
+    <ImageTarget name="babi" size="1.000000 1.250000" />
+    <ImageTarget name="anjing" size="1.000000 1.250000" />
+    <ImageTarget name="anjinglaut" size="1.000000 1.250000" />
+  </Tracking>
+</QCARConfig>
